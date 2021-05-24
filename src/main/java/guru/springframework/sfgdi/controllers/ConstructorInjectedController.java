@@ -16,3 +16,4 @@ public class ConstructorInjectedController {
         return greetingService.sayHello();
     }
 }
+
